@@ -66,8 +66,11 @@ Luckily, there’s a solution: read interesting content relevant to you. This ap
 
 ---
 
-###### Email me at [oleh@olehsliusar.com](mailto:oleh@olehsliusar.com)
-###### My website: [https://olehsliusar.com](olehsliusar.com)
+## Lisence
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Oleh Sliusar](http://olehsliusar.com) has waived all copyright and related or neighboring rights to this work.
 
 [1]: https://www.quora.com/What-is-the-best-way-to-learn-a-foreign-language-using-YouTube/answer/Oleh-Sliusar?srid=upjL5 "How To Learn With The Videos"
 [2]: https://www.quora.com/What-are-good-YouTube-channels-to-learn-English-language/answer/Oleh-Sliusar?srid=upjL5 "What are good YouTube channels to learn English language?"
