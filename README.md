@@ -61,9 +61,6 @@ Luckily, there’s a solution: read interesting content relevant to you. This ap
 - [iTalki](https://www.italki.com)
 - [HelloTalk](http://www.hellotalk.com)  (Mobile platforms only)
 
-
-(more tomorrow)
-
 ---
 
 ## Lisence
