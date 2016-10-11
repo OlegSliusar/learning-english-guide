@@ -52,7 +52,7 @@ Luckily, there’s a solution: read interesting content relevant to you. This ap
 
 ### Learn English with Videos <sup>[*][1]</sup>
 
-- [YouTube](https://www.youtube.com/?gl=GB) <sup>| [*][2] | [*][3] |</sup>
+- [YouTube](https://www.youtube.com/?gl=GB) <sup>[*][2] | [*][3]</sup>
 
 
 
