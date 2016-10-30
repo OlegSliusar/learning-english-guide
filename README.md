@@ -65,9 +65,8 @@ Luckily, there’s a solution: read interesting content relevant to you. This ap
 
 ## Lisence
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Learning English Guide</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://olehsliusar.com" property="cc:attributionName" rel="cc:attributionURL">Oleh Sliusar</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
-To the extent possible under law, [Oleh Sliusar](http://olehsliusar.com) has waived all copyright and related or neighboring rights to this work.
 
 [1]: https://www.quora.com/What-is-the-best-way-to-learn-a-foreign-language-using-YouTube/answer/Oleh-Sliusar?srid=upjL5 "How To Learn With The Videos"
 [2]: https://www.quora.com/What-are-good-YouTube-channels-to-learn-English-language/answer/Oleh-Sliusar?srid=upjL5 "What are good YouTube channels to learn English language?"
