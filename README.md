@@ -46,13 +46,15 @@ Luckily, there’s a solution: read interesting content relevant to you. This ap
 
 ### Listening
 - Podcasts
-  - [Luke's English Podcast](http://teacherluke.co.uk)  (B1+)
+  - [Luke's English Podcast][tl]  (B1+)
 
 
 
 ### Learn English with Videos <sup>[*][1]</sup>
 
-- [YouTube](https://www.youtube.com/?gl=GB) <sup>[*][2] | [*][3]</sup>
+- [YouTube](https://www.youtube.com/?gl=GB)
+  * [What are good YouTube channels to learn English language?][2]
+  * ["How to set English as a default language on YouTube"][3]
 
 
 
@@ -69,5 +71,6 @@ Luckily, there’s a solution: read interesting content relevant to you. This ap
 
 
 [1]: https://www.quora.com/What-is-the-best-way-to-learn-a-foreign-language-using-YouTube/answer/Oleh-Sliusar?srid=upjL5 "How To Learn With The Videos"
-[2]: https://www.quora.com/What-are-good-YouTube-channels-to-learn-English-language/answer/Oleh-Sliusar?srid=upjL5 "What are good YouTube channels to learn English language?"
-[3]: https://www.quora.com/What-is-the-best-way-to-filter-English-only-results-when-searching-on-Youtube/answer/Oleh-Sliusar?srid=upjL5 "How to set English as a default language on YouTube"
+[2]: https://www.quora.com/What-are-good-YouTube-channels-to-learn-English-language/answer/Oleh-Sliusar?srid=upjL5
+[3]: https://www.quora.com/What-is-the-best-way-to-filter-English-only-results-when-searching-on-Youtube/answer/Oleh-Sliusar?srid=upjL5
+[tl]: http://teacherluke.co.uk/
