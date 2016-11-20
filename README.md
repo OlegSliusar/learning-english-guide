@@ -3,7 +3,7 @@
 
 
 
-To reach an *advanced level* of English we have been developing these 4 skills:
+To be **fluent** in English, we need to develop all our skills:
 
 1. **Reading**
 2. **Listening**
@@ -12,7 +12,7 @@ To reach an *advanced level* of English we have been developing these 4 skills:
 
 ---
 
-### Vocabulary
+### About Vocabulary
 
 At the beginning, our main aim is to learn *a lot* of words, which is essential for all those four skills.
 
@@ -54,11 +54,16 @@ Luckily, there’s a solution: read interesting content relevant to you. This ap
 
 - [YouTube](https://www.youtube.com/?gl=GB)
   * [What are good YouTube channels to learn English language?][2]
-  * ["How to set English as a default language on YouTube"][3]
+  * [How to set English as a default language on YouTube][3]
 
 
 
-### Speaking and Communication
+### Audio and Video lessons
+
+- [EnglishClass101][4]
+
+
+### Speaking practice and Communication
 
 - [iTalki](https://www.italki.com)
 - [HelloTalk](http://www.hellotalk.com)  (Mobile platforms only)
@@ -74,3 +79,4 @@ Luckily, there’s a solution: read interesting content relevant to you. This ap
 [2]: https://www.quora.com/What-are-good-YouTube-channels-to-learn-English-language/answer/Oleh-Sliusar?srid=upjL5
 [3]: https://www.quora.com/What-is-the-best-way-to-filter-English-only-results-when-searching-on-Youtube/answer/Oleh-Sliusar?srid=upjL5
 [tl]: http://teacherluke.co.uk/
+[4]: http://www.englishclass101.com/
