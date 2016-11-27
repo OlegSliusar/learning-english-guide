@@ -45,10 +45,10 @@ Luckily, there’s a solution: read interesting content relevant to you. This ap
 
 
 ### Listening
+
 - Podcasts
-  - [Luke's English Podcast][tl]  (B1+)
-
-
+  - [Luke's English Podcast][tl]
+  - [All Ears English](http://www.allearsenglish.com/)
 
 ### Learn English with Videos <sup>[*][1]</sup>
 
@@ -61,8 +61,8 @@ Luckily, there’s a solution: read interesting content relevant to you. This ap
 ### Audio and Video lessons
 
 - [EnglishClass101][4]
-- [engVid](http://www.engvid.com/)
-- [BBC Learning English](http://www.bbc.co.uk/learningenglish)
+- [engVid][5]
+- [BBC Learning English][6]
 
 
 ### Speaking practice and Communication
@@ -82,3 +82,5 @@ Luckily, there’s a solution: read interesting content relevant to you. This ap
 [3]: https://www.quora.com/What-is-the-best-way-to-filter-English-only-results-when-searching-on-Youtube/answer/Oleh-Sliusar?srid=upjL5
 [tl]: http://teacherluke.co.uk/
 [4]: http://www.englishclass101.com/
+[5]: http://www.engvid.com/
+[6]: http://www.bbc.co.uk/learningenglish
