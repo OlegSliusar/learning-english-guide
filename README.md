@@ -3,7 +3,7 @@
 
 
 
-To be **fluent** in English, we need to develop all our skills:
+To reach a **hight level of English**, we need to develop all our skills:
 
 1. **Reading**
 2. **Listening**
@@ -61,6 +61,7 @@ Luckily, there’s a solution: read interesting content relevant to you. This ap
 ### Audio and Video lessons
 
 - [EnglishClass101][4]
+- [engVid](http://www.engvid.com/)
 - [BBC Learning English](http://www.bbc.co.uk/learningenglish)
 
 
