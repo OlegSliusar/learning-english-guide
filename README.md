@@ -1,7 +1,7 @@
 # Learning English Guide
+> The guide is in the proccess of improving to be the most helpful to you.
 
-
-
+---
 
 To reach a **hight level of English**, we need to develop all our skills:
 
