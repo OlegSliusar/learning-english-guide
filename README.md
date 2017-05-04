@@ -3,7 +3,7 @@
 
 ---
 
-To reach a **hight level of English**, we need to develop all our skills:
+To reach a high level of English, we need to develop all our skills:
 
 1. **Reading**
 2. **Listening**
