@@ -3,34 +3,13 @@
 
 ---
 
-To reach a high level of English, we need to develop all our skills:
-
-1. **Reading**
-2. **Listening**
-3. **Speaking**
-4. **Writing**
-
----
-
 ### About Vocabulary
 
-At the beginning, our main aim is to learn *a lot* of words, which is essential for all those four skills.
+Whatever else you do, whatever else you learn, however else you study,
+often your ability to understand someone, or to make yourself under-
+stood, depends on one simple thing: *Do you know enough words?*
 
-Here are some things to know about learning vocabulary:
-
-1. An isolated word often has no direct and needs to be surrounded by other words to carry meaning.
-
-2. Our ultimate goal isn’t to know X words, it’s to be able to string them together to express ideas and thoughts in sentences and conversation.
-
-3. We remember things better when they form connections with other memories or concepts. You’ll remember words more effectively when they are used in an interesting or emotionally charged context.
-
-4. The top 1,000 words from one particular list may not be the ideal 1,000 words for you to learn. A backpacker will need a different set than a businessman.
-
-5. A list this long is too intimidating to memorise without a good strategy.
-
-Luckily, there’s a solution: read interesting content relevant to you. This appears to fix all these problems. You will encounter the most useful words more frequently, and they will be charged with interesting contexts and meaning. But reading is difficult without the necessary vocabulary.
-
-[SRS](https://en.wikipedia.org/wiki/SRS) is an effective way to memorize a large quantity of things, and is very suited for learning vocabulary.
+Learn more about vocabulary in [this guide](https://s3.amazonaws.com/iwtyal/Make+Words+Stick+-+2nd+Edition.pdf)
 
 ---
 
