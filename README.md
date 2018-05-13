@@ -30,7 +30,7 @@ Learn more about vocabulary in [this guide](https://s3.amazonaws.com/iwtyal/Make
   - [All Ears English](http://www.allearsenglish.com/)
   - [I Will Teach You A Language](http://www.iwillteachyoualanguage.com/podcast-home/)
 
-### Learn English with Videos <sup>[*][1]</sup>
+### Learn English with Videos <sup>[more][1]</sup>
 
 - [YouTube](https://www.youtube.com/?gl=GB)
   * [What are good YouTube channels to learn English language?][2]
@@ -48,14 +48,8 @@ Learn more about vocabulary in [this guide](https://s3.amazonaws.com/iwtyal/Make
 ### Speaking practice and Communication
 
 - [iTalki](https://www.italki.com)
-- [HelloTalk](http://www.hellotalk.com)  (Mobile platforms only)
 
 ---
-
-## Lisence
-
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Learning English Guide</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://olehsliusar.com" property="cc:attributionName" rel="cc:attributionURL">Oleh Sliusar</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
-
 
 [1]: https://www.quora.com/What-is-the-best-way-to-learn-a-foreign-language-using-YouTube/answer/Oleh-Sliusar?srid=upjL5 "How To Learn With The Videos"
 [2]: https://www.quora.com/What-are-good-YouTube-channels-to-learn-English-language/answer/Oleh-Sliusar?srid=upjL5
