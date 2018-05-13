@@ -15,12 +15,11 @@ Learn more about vocabulary in [this guide](https://s3.amazonaws.com/iwtyal/Make
 
 ## Awesome list of resources and tools for learning English
 
-### SRS apps and websites
+### Translate and save words
 
 - [Readlang](http://readlang.com)
 
-- [Flashcards Deluxe](http://orangeorapple.com/Flashcards/) (Mobile platforms only)
-
+- [Longman English Dictionary](https://www.ldoceonline.com/)
 
 
 ### Listening
