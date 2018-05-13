@@ -32,7 +32,7 @@ Learn more about vocabulary in [this guide](https://s3.amazonaws.com/iwtyal/Make
 
 ### Learn English with Videos <sup>[more][1]</sup>
 
-- [Watch English videos on YouTube](https://www.youtube.com/?gl=GB)
+- [Watch English videos on YouTube :)](https://www.youtube.com/?gl=GB)
   * [What are good YouTube channels to learn English language?][2]
   * [How to set English as a default language on YouTube][3]
 
@@ -49,6 +49,8 @@ Learn more about vocabulary in [this guide](https://s3.amazonaws.com/iwtyal/Make
 
 - [iTalki](https://www.italki.com)
 
+
+#### [A looong list of recources and websites to learn English](https://docs.google.com/document/d/1Ys3zoAbD1GetPAgPD8nNGlyTEXYPcGtICNSRZbjeu_8/edit)
 ---
 
 [1]: https://www.quora.com/What-is-the-best-way-to-learn-a-foreign-language-using-YouTube/answer/Oleh-Sliusar?srid=upjL5 "How To Learn With The Videos"
