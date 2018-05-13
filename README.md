@@ -32,7 +32,7 @@ Learn more about vocabulary in [this guide](https://s3.amazonaws.com/iwtyal/Make
 
 ### Learn English with Videos <sup>[more][1]</sup>
 
-- [YouTube](https://www.youtube.com/?gl=GB)
+- [Watch English videos on YouTube](https://www.youtube.com/?gl=GB)
   * [What are good YouTube channels to learn English language?][2]
   * [How to set English as a default language on YouTube][3]
 
