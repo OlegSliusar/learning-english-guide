@@ -32,15 +32,8 @@ Learn more about vocabulary in [this guide](https://s3.amazonaws.com/iwtyal/Make
 ### Learn English with Videos
 
 - [Cake English](https://mycake.me/)
-
-
-
-### Audio and Video lessons
-
 - [EnglishClass101][4]
 - [engVid][5]
-- [BBC Learning English][6]
-
 
 ### Speaking practice and Communication
 
@@ -52,4 +45,3 @@ Learn more about vocabulary in [this guide](https://s3.amazonaws.com/iwtyal/Make
 
 [4]: http://www.englishclass101.com/
 [5]: http://www.engvid.com/
-[6]: http://www.bbc.co.uk/learningenglish
