@@ -29,11 +29,9 @@ Learn more about vocabulary in [this guide](https://s3.amazonaws.com/iwtyal/Make
   - [All Ears English](http://www.allearsenglish.com/)
   - [I Will Teach You A Language](http://www.iwillteachyoualanguage.com/podcast-home/)
 
-### Learn English with Videos <sup>[more][1]</sup>
+### Learn English with Videos
 
-- [Watch English videos on YouTube :)](https://www.youtube.com/?gl=GB)
-  * [What are good YouTube channels to learn English language?][2]
-  * [How to set English as a default language on YouTube][3]
+- [Cake English](https://mycake.me/)
 
 
 
@@ -52,9 +50,6 @@ Learn more about vocabulary in [this guide](https://s3.amazonaws.com/iwtyal/Make
 #### [A looong list of recources and websites to learn English](https://docs.google.com/document/d/1Ys3zoAbD1GetPAgPD8nNGlyTEXYPcGtICNSRZbjeu_8/edit)
 ---
 
-[1]: https://www.quora.com/What-is-the-best-way-to-learn-a-foreign-language-using-YouTube/answer/Oleh-Sliusar?srid=upjL5 "How To Learn With The Videos"
-[2]: https://www.quora.com/What-are-good-YouTube-channels-to-learn-English-language/answer/Oleh-Sliusar?srid=upjL5
-[3]: https://www.quora.com/What-is-the-best-way-to-filter-English-only-results-when-searching-on-Youtube/answer/Oleh-Sliusar?srid=upjL5
 [4]: http://www.englishclass101.com/
 [5]: http://www.engvid.com/
 [6]: http://www.bbc.co.uk/learningenglish
