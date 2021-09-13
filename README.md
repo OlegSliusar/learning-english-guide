@@ -1,5 +1,4 @@
 # Learning English Guide
-> The guide is in proccess of improving to be the most helpful to you.
 
 ---
 
