@@ -40,7 +40,7 @@ Learn more about vocabulary in [this guide](https://s3.amazonaws.com/iwtyal/Make
 - [iTalki](https://www.italki.com)
 
 
-#### [A looong list of recources and websites to learn English (in russian/на русском](https://docs.google.com/document/d/1Ys3zoAbD1GetPAgPD8nNGlyTEXYPcGtICNSRZbjeu_8/edit)
+#### [A looong list of recources and websites to learn English (in russian/на русском)](https://docs.google.com/document/d/1Ys3zoAbD1GetPAgPD8nNGlyTEXYPcGtICNSRZbjeu_8/edit)
 ---
 
 [4]: http://www.englishclass101.com/
